@@ -34,3 +34,39 @@ Harvard Mark 1 - Conceived by Harvard physics professor Howard Aiken, and design
 
 "on" state - when electricity is flowing     = true
 "off" state = when no electricity is flowing = false
+
+"Boolean Algebra"! Logical Statements
+"and" &&    -   "or" || -   "not" !
+"XOR" - 'the only time an XOR statement is true is if ONE of the inputs is true (so when both = true, XOR = False"
+
+===(Episode #4)===
+Binary vs Decimal
+
+8-bit
+128 - 64 - 32 - 16 - 8 - 4 - 2 - 1  === up to 255
+
+8-bits are so common they have a special name. a "BYTE"
+
+"MEGA" is a million bytes (MB)
+"GIGA" is a billion bytes (GB)
+"Tera" is a trillion bytes(TB) - " 8 trillion 1's and 0's "
+
+32-bit - 4,294,967,295 = say 4.2 Billion or a range of + or - 2.1 Billion
+64-bit - 9.2 Quintillion = 9,200,000,000,000,000,000
+
+===
+"FLOATING POINT" - IEEE STANDARDS -
+'first bit is used for the sign of the number'
+'next 8 bits are used for the exponent' - 10 ^ X
+'remaining 23 used for the significant digits'
+
+"ASCII" - 1963 - 7-bit digits ... turns into 8-bit
+'a' - 97
+'A' - 65 ... etc
+
+"mojibake" - scrambled text
+'different languages made a mess of ASCII standards'
+  UNICODE - 1992
+    one universal encoding scheme that uses (most commonly) 16-bits with space for over 1 million codes!
+===
+===(Episode #5)===
